@@ -8,4 +8,5 @@ The JavaScript code stores the data of quiz questions and answers in an array ca
 An event listener is added to the `submitBtn` (Submit button) click event. This event listener evaluates the selected answer, increments the score if it is correct, and moves on to the next question. If all questions are answered, it displays the result on the screen and adds a "Try Again" button.<br/>
 
 HTML, CSS, and JavaScript are used in this project. Quiz questions and answers are stored as an array in the JavaScript code.<br/>
+Preview: <br/>
  ![]()<img src="quizapp.gif">
